@@ -12,6 +12,7 @@ public class Zapatos
     public Ventas? Ventas;
     public List<Cordones>? Cordones;
     public List<Tipos>? Tipos;
+    public int erro2;
 }
 
 public class Cordones
