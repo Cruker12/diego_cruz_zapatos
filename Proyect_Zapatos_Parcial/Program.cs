@@ -7,6 +7,8 @@ public class Zapatos
     public string? Nombre;
     public string? Color_Zapato;
     public decimal Medida_Pie;
+
+    public int error1;
     public Ventas? Ventas;
     public List<Cordones>? Cordones;
     public List<Tipos>? Tipos;
