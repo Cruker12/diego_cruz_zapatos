@@ -1,0 +1,15 @@
+C:\Users\salak301\diego_cruz_zapatos\Proyect_Zapatos_Parcial\bin\Debug\net8.0\Proyect_Zapatos_Parcial.exe
+C:\Users\salak301\diego_cruz_zapatos\Proyect_Zapatos_Parcial\bin\Debug\net8.0\Proyect_Zapatos_Parcial.deps.json
+C:\Users\salak301\diego_cruz_zapatos\Proyect_Zapatos_Parcial\bin\Debug\net8.0\Proyect_Zapatos_Parcial.runtimeconfig.json
+C:\Users\salak301\diego_cruz_zapatos\Proyect_Zapatos_Parcial\bin\Debug\net8.0\Proyect_Zapatos_Parcial.dll
+C:\Users\salak301\diego_cruz_zapatos\Proyect_Zapatos_Parcial\bin\Debug\net8.0\Proyect_Zapatos_Parcial.pdb
+C:\Users\salak301\diego_cruz_zapatos\Proyect_Zapatos_Parcial\obj\Debug\net8.0\Proyect_Zapatos_Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak301\diego_cruz_zapatos\Proyect_Zapatos_Parcial\obj\Debug\net8.0\Proyect_Zapatos_Parcial.AssemblyInfoInputs.cache
+C:\Users\salak301\diego_cruz_zapatos\Proyect_Zapatos_Parcial\obj\Debug\net8.0\Proyect_Zapatos_Parcial.AssemblyInfo.cs
+C:\Users\salak301\diego_cruz_zapatos\Proyect_Zapatos_Parcial\obj\Debug\net8.0\Proyect_Zapatos_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\salak301\diego_cruz_zapatos\Proyect_Zapatos_Parcial\obj\Debug\net8.0\Proyect_Zapatos_Parcial.sourcelink.json
+C:\Users\salak301\diego_cruz_zapatos\Proyect_Zapatos_Parcial\obj\Debug\net8.0\Proyect_Zapatos_Parcial.dll
+C:\Users\salak301\diego_cruz_zapatos\Proyect_Zapatos_Parcial\obj\Debug\net8.0\refint\Proyect_Zapatos_Parcial.dll
+C:\Users\salak301\diego_cruz_zapatos\Proyect_Zapatos_Parcial\obj\Debug\net8.0\Proyect_Zapatos_Parcial.pdb
+C:\Users\salak301\diego_cruz_zapatos\Proyect_Zapatos_Parcial\obj\Debug\net8.0\Proyect_Zapatos_Parcial.genruntimeconfig.cache
+C:\Users\salak301\diego_cruz_zapatos\Proyect_Zapatos_Parcial\obj\Debug\net8.0\ref\Proyect_Zapatos_Parcial.dll
