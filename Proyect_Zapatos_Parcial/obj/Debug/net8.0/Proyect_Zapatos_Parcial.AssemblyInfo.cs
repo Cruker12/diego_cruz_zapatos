@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proyect_Zapatos_Parcial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb8fde2c332860872357524adc9e4baa6a8321af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7ea4fd25d90e39934a7920b2691943ddafdab19")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proyect_Zapatos_Parcial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proyect_Zapatos_Parcial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
